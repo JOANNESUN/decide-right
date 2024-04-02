@@ -1,4 +1,4 @@
-# Decision Maker App
+# Decision Make
 
 This project is a dynamic decision-making tool that helps users navigate through complex life decisions with a series of thought-provoking questions. Powered by [Create React App](https://github.com/facebook/create-react-app) and integrated with OpenAI's powerful language model, this app offers personalized advice and insights, guiding users towards informed decisions.
 
